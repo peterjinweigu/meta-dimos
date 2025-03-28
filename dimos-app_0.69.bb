@@ -17,4 +17,6 @@ FLUTTER_APPLICATION_INSTALL_SUFFIX = "dimos"
 PUBSPEC_IGNORE_LOCKFILE = "1"
 FLUTTER_APPLICATION_PATH = ""
 
+do_compile[network] = "1"
+
 inherit flutter-app
