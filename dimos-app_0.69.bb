@@ -7,7 +7,7 @@ SECTION = "graphics"
 
 LICENSE = "CLOSED"
 
-SRCREV = "86f0da9fcfb0ed21ebced1db38adcd9d583078e0"
+SRCREV = "d498c714ece01f4221877ab42ee4be94c815551d"
 SRC_URI = "gitsm://github.com/UBCFormulaElectric/Consolidated-Firmware.git;lfs=1;branch=dimos_flutter;protocol=https;destsuffix=git"
 
 S = "${WORKDIR}/git"
